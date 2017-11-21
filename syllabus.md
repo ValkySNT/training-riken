@@ -1,5 +1,7 @@
 # Intro to training 
 
+Add this line.
+
 * Installation
 	- check installation: local or docker 
 	- check who knows what
@@ -73,4 +75,5 @@ jupyter notebook --ip=* --port=9999 Positive-Predictive-Value.ipynb
 ## On Windows: 
 - instead of “localhost”, run “docker-machine.exe ip” to get your docker machine IP address.  
 Then use this in place of “localhost”
+
 
